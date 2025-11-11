@@ -57,7 +57,7 @@
 ...[l][r]
 彼の勇気は、ここで尽きた。[r]
 
-**【 DESPAIR END 】**[l][cm]
+【 DESPAIR END 】[l][cm]
 [jump target=*start]
 
 あああ、、どうしよう[l][r]
